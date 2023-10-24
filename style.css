@@ -10,8 +10,8 @@ body {
 
 .quem{
     display: flex;
-    
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 p {
