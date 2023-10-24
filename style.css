@@ -8,6 +8,11 @@ body {
     color: red;
 }
 
+.quem{
+    display: flex;
+    
+    flex-wrap: wrap;
+}
 
 p {
     text-align: justify;
