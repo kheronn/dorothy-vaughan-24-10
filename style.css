@@ -23,4 +23,5 @@ img {
     display: flex;
     justify-content: center;
     flex-direction: row;
+    padding: 1em;
 }
