@@ -1,20 +1,19 @@
-body{
+body {
     font-size: 30px;
     font-family: Roboto;
 }
 
-#titulo{
+#titulo {
     text-align: center;
-    color:red;
+    color: red;
 }
 
 
-p{
+p {
     text-align: justify;
 }
 
-img{
+img {
     width: 400px;
     border-radius: 24px;
 }
-
