@@ -8,11 +8,6 @@ body {
     color: red;
 }
 
-.quem{
-    display: flex;
-    justify-content: center;
-}
-
 p {
     text-align: justify;
 }
@@ -20,4 +15,10 @@ p {
 img {
     width: 400px;
     border-radius: 24px;
+}
+
+
+.quem{
+    display: flex;
+    justify-content: center;
 }
